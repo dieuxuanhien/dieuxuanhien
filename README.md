@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Dieu Xuan Hien 👋
 
-<!--
-**dieuxuanhien/dieuxuanhien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+- 💻 I enjoy building useful software and exploring new technologies.
+- 🌱 I’m continuously learning and improving my development skills.
+- 🤝 I’m open to collaboration on interesting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+- Personal projects and experiments
+- Learning notes and practice repositories
+- Contributions to tools and workflows I care about
+
+## Tech Interests
+- Web development
+- Backend systems
+- Developer productivity and automation
+
+## Connect
+- 📫 Reach me on GitHub: [@dieuxuanhien](https://github.com/dieuxuanhien)
+
+Thanks for visiting my profile! 🚀
